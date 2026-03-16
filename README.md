@@ -92,7 +92,7 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Aditya-Dosapati&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Aseesh-Dosapati&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
